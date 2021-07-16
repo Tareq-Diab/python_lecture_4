@@ -1,2 +1,2 @@
 print("this is my first commit")
-print("this is my secon commit")
+print("this is my second commit")
